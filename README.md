@@ -2,7 +2,7 @@
 <h3 align="center">Mechatronics Engineer • Robotics & SLAM • Industrial Design • Motion Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+autonomous+systems+that+see+and+move;Exploring+SLAM+%26+in-pipe+inspection+robotics;Merging+engineering+precision+with+visual+design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+autonomous+systems+that+see+and+move;Applying+reinforcement+learning+to+robotics;Merging+engineering+precision+with+visual+design" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,16 +15,27 @@
 
 ### 🚀 About Me
 
-I'm a Mechatronics and Robotics Engineer with a strong focus on **robotics, SLAM, and autonomous systems**. Alongside the engineering, I have a creative practice in **motion design and visual storytelling** — I like working at the point where robotics meets human-centered design. Always open to collaborations that push the boundaries of automation, robotics, and digital innovation.
+I'm a Mechatronics and Robotics Engineer with a strong focus on **robotics, SLAM, and autonomous systems**. Lately most of my time goes into reinforcement learning for autonomous navigation, along with ongoing research and paper publishing in robotics. I also have a creative side in motion design and visual storytelling, so I like sitting at the point where robotics meets human centered design. Always open to collaborations that push the boundaries of automation, robotics, and digital innovation.
+
+---
+
+### 🎯 Currently
+
+🔹 Applying reinforcement learning to autonomous robot navigation
+🔹 Writing and publishing new research papers in robotics and SLAM
+🔹 Continuing hands on study in robotics and control science
+🔹 Building and testing robots in the lab
 
 ---
 
 ### 🛠️ Skills & Tools
 
-**Robotics & Engineering**
+**Robotics, AI & Engineering**
 
 <p align="left">
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-FF9400?style=for-the-badge&logo=mathworks&logoColor=white"/>
@@ -46,19 +57,22 @@ I'm a Mechatronics and Robotics Engineer with a strong focus on **robotics, SLAM
 
 ### ✨ Key Interests
 
-- 🤖 Robotics Research
-- 🖥️ 3D Modelling & CAD
-- 🏭 Industrial Design
-- 🎨 Motion Design
-- ✏️ 2D Animation
+🤖 Robotics Research
+🧠 Reinforcement Learning
+🖥️ 3D Modelling & CAD
+🏭 Industrial Design
+🎨 Motion Design
+✏️ 2D Animation
 
 ---
 
 ### 📚 Research & Publications
 
-- **[Autonomous Navigation Systems for In-Pipe Inspection Robots Using Advanced SLAM Techniques: Comprehensive Review](https://ieeexplore.ieee.org/document/10926841)** — IEEE, 2024
-- **[Modelling and Simulation of Hybrid-Power Generation via Solar and Wind Turbine Using MATLAB/Simulink for Sustainable Energy Development](https://journals.nipes.org/index.php/njstr/article/view/1622)** — NIPES, Journal of Science & Technology Research
-- **[Design and Implementation of a Water Level Indicator and Alarm System](https://ieeexplore.ieee.org/abstract/document/10927367)** — IEEE, 2024
+🔹 **[Autonomous Navigation Systems for In-Pipe Inspection Robots Using Advanced SLAM Techniques: Comprehensive Review](https://ieeexplore.ieee.org/document/10926841)** (IEEE, 2024)
+🔹 **[Modelling and Simulation of Hybrid-Power Generation via Solar and Wind Turbine Using MATLAB/Simulink for Sustainable Energy Development](https://journals.nipes.org/index.php/njstr/article/view/1622)** (NIPES, Journal of Science & Technology Research)
+🔹 **[Design and Implementation of a Water Level Indicator and Alarm System](https://ieeexplore.ieee.org/abstract/document/10927367)** (IEEE, 2024)
+
+📝 New papers on reinforcement learning and robotics are currently in progress. I'll add them here once published.
 
 ➡️ More on my **[Google Scholar profile](https://scholar.google.com/citations?user=GTSEXp8AAAAJ&hl=en)**
 
@@ -72,7 +86,7 @@ I'm a Mechatronics and Robotics Engineer with a strong focus on **robotics, SLAM
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vesto-design&hide_border=true" alt="vesto-design streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=vesto-design&hide_border=true" alt="vesto-design streak stats"/>
 </p>
 
 ---
